@@ -1,5 +1,4 @@
-# pythonAI
-Simple Voice to Text Engine Using Python
+# Simple Voice to Text Engine Using Python
 
 Developed Using PyCharm
 
